@@ -1,0 +1,57 @@
+# Tizora
+> AI product engineering, computer vision, and cloud architecture for enterprise businesses. Tizora designs and builds AI-ready software for healthcare, aviation, fintech, parking and eCommerce teams, with delivery teams across India, the UK and the USA.
+
+## Case Studies
+- [All case studies](https://www.tizora.ai/insights/case-studies): Every Tizora case study, filterable by industry.
+- [Aircraft Turnaround Management Software](https://www.tizora.ai/insights/case-studies/aviation/aircraft-turnaround-management-software): How Tizora's turnaround management software flagged delay risk 18 minutes earlier and lifted on-time departures 7 points in an airport pilot.
+- [Digital KYC — Paperless customer onboarding](https://www.tizora.ai/insights/case-studies/fintech/digital-kyc): How Tizora helped a regional Indian bank cut account opening from 3 days to under 5 minutes with V-CIP video KYC, OCR and Aadhaar eSign.
+- [Mobile Banking Platform](https://www.tizora.ai/insights/case-studies/fintech/mobile-banking): Mobile banking platform case study: how Tizora connected a secure, API-first app to core banking and moved 60% of routine transactions off branch counters.
+- [Core Banking Operations Platform](https://www.tizora.ai/insights/case-studies/fintech/core-banking): Core banking platform case study: Tizora unified deposits, lending, accounting, branch and member operations on one auditable, API-ready foundation for banks.
+- [AI-Enhanced LPR Parking Enforcement](https://www.tizora.ai/insights/case-studies/parking/ai-lpr-parking-enforcement): AI license plate recognition case study: how Tizora made a mobile parking enforcement app read plates in snow, mud, glare and blur, with fewer repeated scans.
+- [Digital Weight Management Platform](https://www.tizora.ai/insights/case-studies/healthcare/weight-management): Digital weight management platform case study: Bluetooth scale sync, one view of weight, sleep and exercise data, and video care for gastric balloon patients.
+- [AI-Ready Patient Management](https://www.tizora.ai/insights/case-studies/healthcare/ai-ready-patient-management-platform): Connected medication management: one patient record for medication, pharmacy and barcode inventory on AWS, helping nurses spend less time on administration and more on patient care.
+- [CStore Master: eCommerce & AMR Robotics](https://www.tizora.ai/insights/case-studies/retail/cstore-master): How CStore Master connected Magento, Shopify and mobile ordering apps to AMR warehouse robots: 60% faster fulfillment and 40% lower labor cost.
+- [AI Skin Analysis for Skincare E-Commerce](https://www.tizora.ai/insights/case-studies/retail/ai-skin-analysis): AI skin analysis case study: a selfie-based face scan that detects visible skin concerns and maps each one to in-stock products in a skincare brand's catalog.
+
+## Ebooks
+- [Ebooks and Guides](https://www.tizora.ai/insights/ebooks): Practical guides from the Tizora engineering team, as downloadable PDFs.
+- [Building AI-Ready Healthcare Software](https://www.tizora.ai/insights/ebooks/ai-ready-healthcare-software-guide): A practical guide to patient records, HIPAA-aligned security and FHIR integration (PDF: https://www.tizora.ai/ebooks/ai-ready-healthcare-software-guide.pdf).
+- [Seeing Turnaround Delays Before They Happen](https://www.tizora.ai/insights/ebooks/aircraft-turnaround-delay-guide): A practical guide to aircraft turnaround management for airport operations teams (PDF: https://www.tizora.ai/ebooks/aircraft-turnaround-delay-guide.pdf).
+
+## Insights
+- [Insights](https://www.tizora.ai/insights): Case studies, blogs, AI trends and ebooks from the Tizora engineering team.
+- [Blogs](https://www.tizora.ai/insights/blogs): Engineering deep dives and product thinking from the Tizora team.
+- [How Does That Camera Actually Read Your License Plate?](https://www.tizora.ai/insights/blogs/how-does-license-plate-recognition-work): A plain-English, step-by-step walkthrough of how license plate recognition cameras at garages and toll booths work.
+- [AI Trends](https://www.tizora.ai/insights/ai-trends): Tizora's perspective on emerging trends in AI engineering and enterprise adoption.
+- [GPT-6 Astra: Is This the Beginning of the AGI Era?](https://www.tizora.ai/insights/ai-trends/gpt-6-astra-agi-era): What OpenAI's GPT-6 Astra does, what the benchmarks show, and what industry leaders are saying about whether the AGI era has arrived.
+
+## Products
+- [Products](https://www.tizora.ai/products): Tizora's AI products.
+- [License Plate Recognition (ALPR / ANPR)](https://www.tizora.ai/products/license-plate-recognition): Free online license plate recognition demo and open-source API.
+- [ReCom AI](https://www.tizora.ai/products/recomai): A 24/7 AI sales agent for eCommerce.
+
+## Industries
+- [Industries](https://www.tizora.ai/industries): The industries Tizora builds for, with case studies for each.
+- [Healthcare Software Development](https://www.tizora.ai/industries/healthcare): Healthcare software development company building HIPAA-aligned, FHIR-ready patient management and medication platforms that are ready for AI.
+- [Aviation](https://www.tizora.ai/industries/aviation): AI intelligence for airport operations: turnaround, gate and stand, and flight-disruption decisions built on operational data, SOPs and real-time events.
+- [Fintech](https://www.tizora.ai/industries/fintech): Software for banks and financial institutions: core banking, mobile banking and digital KYC onboarding.
+- [AI License Plate Recognition for Parking Enforcement](https://www.tizora.ai/industries/parking): Tizora builds AI license plate recognition for parking enforcement: an AI layer on your existing LPR engine that reads plates in snow, mud and glare.
+- [eCommerce](https://www.tizora.ai/industries/ecommerce): eCommerce platforms, headless commerce and warehouse robotics integration, and AI-driven product discovery.
+
+## Services
+- [AI Product Engineering for Startups (MVP)](https://www.tizora.ai/services/startup-mvp): Custom MVP development, rapid prototyping and agile delivery for fast market validation.
+- [Product Engineering for Mid-Market Businesses](https://www.tizora.ai/services/mid-market): Scalable product engineering to modernize operations and digital products for growing companies.
+- [Enterprise Solutions](https://www.tizora.ai/services/enterprise-solutions): Rapid prototyping, secure cloud architecture and market-ready engineering for large organizations.
+- [Shopify Plus Partner](https://www.tizora.ai/shopify-plus-partner): Headless Shopify Plus architectures, custom checkout flows and migrations.
+
+## Security & Compliance
+- [AI Security](https://www.tizora.ai/cybersecurity/ai-security): Securing LLM applications, RAG pipelines and autonomous agents against prompt injection, data leakage and model-layer attacks.
+- [Application Security](https://www.tizora.ai/cybersecurity/application-security): Threat modeling, secure code review, SAST/DAST, dependency scanning and penetration testing built into the SDLC.
+- [Shopify App VAPT](https://www.tizora.ai/cybersecurity/vapt-shopify-apps): Vulnerability assessment and penetration testing for Shopify apps.
+- [DPDP Act Compliance](https://www.tizora.ai/compliance/dpdp): Consent architecture, Data Principal rights and breach response for India's Digital Personal Data Protection Act.
+- [VPAT & Accessibility](https://www.tizora.ai/compliance/vpat-accessibility): WCAG 2.1/2.2 AA audits, remediation and VPAT / Accessibility Conformance Report documentation.
+- [Shopify App VPAT](https://www.tizora.ai/compliance/vpat-shopify-apps): Accessibility conformance documentation for Shopify apps.
+
+## Company
+- [About](https://www.tizora.ai/about): Tizora's mission, vision and the team behind its AI product engineering.
+- [Contact](https://www.tizora.ai/contact): Talk to the Tizora team about a project.
